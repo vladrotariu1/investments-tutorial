@@ -6,7 +6,7 @@ function GoToQuestionarePage() {
     }
 
     return (
-        <Hero imageSrc={ 'src/assets/raspunde-la-intrebari.jpeg' }>
+        <Hero imageSrc={ 'src/assets/raspunde-la-intrebari.jpg' }>
             <div className="justify-center items-center flex flex-col h-full">
                 <h1 className="text-4xl font-bold text-[#cf0419] font-family-unicredit-bold"> Ce e de fǎcut? </h1>
                 <img className="w-20 m-10" src="src/assets/arrow-down.png" alt="Arrow down"/>
