@@ -2,12 +2,12 @@
 
 @font-face {
     font-family: UnicreditRegular;
-    src: url('src/assets/fonts/unicredit-regular.otf');
+    src: url('../public/assets/fonts/unicredit-regular.otf');
 }
 
 @font-face {
     font-family: UnicreditBold;
-    src: url('src/assets/fonts/unicredit-bold.otf');
+    src: url('../public/assets/fonts/unicredit-bold.otf');
 }
 
 @theme {
