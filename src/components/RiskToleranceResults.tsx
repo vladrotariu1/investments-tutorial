@@ -6,7 +6,7 @@ function RiskToleranceResults() {
     }
 
     return (
-        <Hero imageSrc={ 'public/assets/risk-tolerance-hero.jpeg' }>
+        <Hero imageSrc={ 'assets/risk-tolerance-hero.jpeg' }>
             <div className="justify-center items-center flex flex-col h-full">
                 <h1 className="text-4xl font-bold text-[#cf0419] font-family-unicredit-bold text-center"> Toleranțǎ fațǎ de <br/> risc mediu </h1>
                 <div

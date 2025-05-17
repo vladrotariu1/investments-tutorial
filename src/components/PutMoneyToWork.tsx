@@ -29,7 +29,7 @@ function PutMoneyToWork() {
     const investedSum = computeCompoundInterest(SUM_OF_MONEY * 12, 0.11, numberOfYears);
 
     return (
-        <Hero imageSrc={ 'public/assets/put-money-to-work-hero.jpeg' }>
+        <Hero imageSrc={ 'assets/put-money-to-work-hero.jpeg' }>
             <div className="justify-center items-center flex flex-col h-full">
                 <div
                     className="mb-10 max-w-80 font-bold text-3xl bg-[#e2061d] text-[#fafafa] text-center w-10/12 p-3 rounded-2xl font-family-unicredit-bold">
